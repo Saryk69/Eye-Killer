@@ -1,0 +1,14 @@
+C:\Users\piotr\source\repos\Eye Killer\bin\Debug\net7.0\Eye Killer.exe
+C:\Users\piotr\source\repos\Eye Killer\bin\Debug\net7.0\Eye Killer.deps.json
+C:\Users\piotr\source\repos\Eye Killer\bin\Debug\net7.0\Eye Killer.runtimeconfig.json
+C:\Users\piotr\source\repos\Eye Killer\bin\Debug\net7.0\Eye Killer.dll
+C:\Users\piotr\source\repos\Eye Killer\bin\Debug\net7.0\Eye Killer.pdb
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.AssemblyInfo.cs
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.dll
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\refint\Eye Killer.dll
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.pdb
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\Eye Killer.genruntimeconfig.cache
+C:\Users\piotr\source\repos\Eye Killer\obj\Debug\net7.0\ref\Eye Killer.dll
